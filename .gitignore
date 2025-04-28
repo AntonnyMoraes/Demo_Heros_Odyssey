@@ -4,8 +4,8 @@
 .gitattributes
 icon.svg.import
 project.godot
-scripts/player.gd.uid
-scripts/main.gd.uid
+player.gd.uid
+main.gd.uid
 
 # Godot-specific ignores
 .import/
