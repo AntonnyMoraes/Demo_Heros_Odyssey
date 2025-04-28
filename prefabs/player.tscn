@@ -1,0 +1,12 @@
+[gd_scene load_steps=2 format=3 uid="uid://c0i0hflemtntw"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_fp3wc"]
+
+[node name="Player" type="CharacterBody2D"]
+
+[node name="collision" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_fp3wc")
+
+[node name="texture" type="Sprite2D" parent="."]
+
+[node name="animation" type="AnimationPlayer" parent="."]
