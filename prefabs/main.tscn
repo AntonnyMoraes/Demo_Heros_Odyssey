@@ -1,3 +1,21 @@
-[gd_scene format=3 uid="uid://bkyngucy7o1ma"]
+[gd_scene load_steps=3 format=3 uid="uid://bkyngucy7o1ma"]
+
+[ext_resource type="Script" uid="uid://bcjfh417s3hs5" path="res://scripts/main.gd" id="1_1jyap"]
+[ext_resource type="PackedScene" uid="uid://c0i0hflemtntw" path="res://prefabs/player.tscn" id="1_wmafp"]
 
 [node name="main" type="Node2D"]
+script = ExtResource("1_1jyap")
+
+[node name="Player" parent="." instance=ExtResource("1_wmafp")]
+position = Vector2(784, 0)
+
+[node name="Camera" type="Camera2D" parent="."]
+zoom = Vector2(1.5, 1.5)
+drag_horizontal_enabled = true
+drag_vertical_enabled = true
+drag_left_margin = 0.45
+drag_top_margin = 0.4
+drag_right_margin = 0.45
+drag_bottom_margin = 0.35
+editor_draw_limits = true
+editor_draw_drag_margin = true
