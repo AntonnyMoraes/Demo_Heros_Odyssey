@@ -3,11 +3,8 @@
 Bem vindo(a) ao projeto de demo do jogo **Hero's Odyssey**!
 Este é um projeto utilizando a engine Godot 4. Aqui estou colocando em prática meus estudos de GameDev, com foco no estilo Metroidvania/Plataforma.
 
-## 💡 Sobre mim
-Sou estudante de desenvolvimento de jogos, composição de arte e músicas.
-Aqui você encontrará meus estudos sobre GameDev e o primeiro projeto oficial! Também explicarei brevemente alguns conceitos e maneiras que eu estou fazendo as coisas.
-
-💼 Busco uma vaga como **Desenvolvedor de Jogos Júnior**.
+## ▶ Status
+🚧 Projeto em desenvolvimento 🚧
 
 ## 📌 Objetivos
 - 🚩 Dominar Godot 4
@@ -20,8 +17,11 @@ Aqui você encontrará meus estudos sobre GameDev e o primeiro projeto oficial! 
 - Aseprite
 - Itch.io
 
-## ▶ Status
-🚧 Projeto em desenvolvimento 🚧
+## 💡 Sobre mim
+Sou estudante de desenvolvimento de jogos, composição de arte e músicas.
+Aqui você encontrará meus estudos sobre GameDev e o primeiro projeto oficial! Também explicarei brevemente alguns conceitos e maneiras que eu estou fazendo as coisas.
+
+💼 Busco uma vaga como **Desenvolvedor de Jogos Júnior**.
 
 ## 💬 Contato
 Se quiser saber mais: antonnymoraes@hotmail.com
