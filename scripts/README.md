@@ -1,6 +1,6 @@
 # 📕 Scripts Godot
 
-Os Scripts à seguir podem sofrer alterações com o tempo, por exemplo, adicionar alguma variavél que não estava nos planos iniciais pra alguma função nova!
+Os Scripts à seguir podem sofrer alterações com o tempo, por exemplo, adicionar alguma variável que não estava nos planos iniciais pra alguma função nova!
 
 ## 👨‍💻 Player
 | Módulos                    | Status                      |
